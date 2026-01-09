@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "description": "Office supplies and equipment",
+        "amount": 250.00,
+        "currency": "USD",
+        "date": "2026-01-05",
+        "category": "Office",
+        "status": "pending approval",
+        "submittedBy": "John Smith"
+    },
+    {
+        "id": 2,
+        "description": "Conference registration and travel",
+        "amount": 1200.00,
+        "currency": "USD",
+        "date": "2026-01-04",
+        "category": "Travel",
+        "status": "pending approval",
+        "submittedBy": "Sarah Johnson"
+    },
+    {
+        "id": 3,
+        "description": "Software licenses renewal",
+        "amount": 500.00,
+        "currency": "USD",
+        "date": "2026-01-06",
+        "category": "Software",
+        "status": "pending approval",
+        "submittedBy": "Mike Davis"
+    },
+    {
+        "id": 4,
+        "description": "Team lunch meeting",
+        "amount": 150.00,
+        "currency": "USD",
+        "date": "2026-01-03",
+        "category": "Meals",
+        "status": "pending approval",
+        "submittedBy": "Emily Wilson"
+    },
+    {
+        "id": 5,
+        "description": "Internet and utilities",
+        "amount": 300.00,
+        "currency": "USD",
+        "date": "2026-01-02",
+        "category": "Utilities",
+        "status": "pending approval",
+        "submittedBy": "Robert Brown"
+    }
+]

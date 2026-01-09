@@ -1,0 +1,32 @@
+[
+    {
+        "id": 6,
+        "description": "Marketing materials and printing",
+        "amount": 425.00,
+        "currency": "USD",
+        "date": "2026-01-07",
+        "category": "Marketing",
+        "status": "approved",
+        "submittedBy": "Lisa Anderson"
+    },
+    {
+        "id": 7,
+        "description": "Client dinner meeting",
+        "amount": 320.00,
+        "currency": "USD",
+        "date": "2026-01-08",
+        "category": "Meals",
+        "status": "pending approval",
+        "submittedBy": "James Taylor"
+    },
+    {
+        "id": 8,
+        "description": "Training workshop attendance",
+        "amount": 850.00,
+        "currency": "USD",
+        "date": "2026-01-09",
+        "category": "Training",
+        "status": "pending approval",
+        "submittedBy": "Maria Garcia"
+    }
+]
